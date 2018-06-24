@@ -1,0 +1,53 @@
+id,state,abbr,uninsured,ExcellentHealth
+1,Alabama,AL,18.2,16.8
+2,Alaska,AK,21.8,21.1
+4,Arizona,AZ,18.5,19.2
+5,Arkansas,AR,17.5,15.3
+6,California,CA,17.3,20.5
+8,Colorado,CO,13.9,21.2
+9,Connecticut,CT,9.5,23.4
+10,Delaware,DE,10.5,18.9
+11,District of Columbia,DC,6.7,26
+12,Florida,FL,23.8,20.7
+13,Georgia,GA,22.1,19
+15,Hawaii,HI,7.2,20.6
+16,Idaho,ID,19.3,20.7
+17,Illinois,IL,14,18.5
+18,Indiana,IN,16.4,15.6
+19,Iowa,IA,8.8,18.5
+20,Kansas,KS,14.5,18.6
+21,Kentucky,KY,11.9,15.5
+22,Louisiana,LA,21.6,19.1
+23,Maine,ME,14.2,18.9
+24,Maryland,MD,11,21.4
+25,Massachusetts,MA,4.5,24
+26,Michigan,MI,12.3,15.6
+27,Minnesota,MN,7.9,20.2
+28,Mississippi,MS,21.5,16
+29,Missouri,MO,16.1,18
+30,Montana,MN,20.1,20.2
+31,Nebraska,NE,13.6,19.3
+32,Nevada,NV,20.4,18.6
+33,New Hampshire,NH,12.8,21.1
+34,New Jersey,NJ,15.4,20.5
+35,New Mexico,NM,20.7,17.4
+36,New York,NY,12.3,19.9
+37,North Carolina,NC,19,19
+38,North Dakota,ND,9.8,17.9
+39,Ohio,OH,11.6,18.2
+40,Oklahoma,OK,21.6,16.3
+41,Oregon,OR,13.9,20.4
+42,Pennsylvania,PA,11.7,18.7
+44,Rhode Island,RI,10.4,18.9
+45,South Carolina,SC,19.9,17.7
+46,South Dakota,SD,13.8,19
+47,Tennessee,TN,17.4,16.5
+48,Texas,TX,25.7,18.1
+49,Utah,UT,16.2,22.9
+50,Vermont,VT,7.1,20.9
+51,Virginia,VA,14.9,20.2
+53,Washington,WA,12.8,17.9
+54,West Virginia,WV,12.9,13.5
+55,Wisconsin,WI,10.1,18
+56,Wyoming,WY,16.7,22.2
+72,Puerto Rico,PR,8.7,18.6
